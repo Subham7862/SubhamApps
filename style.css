@@ -1,0 +1,44 @@
+body{
+    background-image:url(https://c4.wallpaperflare.com/wallpaper/448/174/357/neon-4k-hd-best-for-desktop-wallpaper-preview.jpg) ;
+    background-repeat: no-repeat;
+    background-size: cover;
+}
+h1{
+    display:flex;
+    justify-content: center;
+    color:antiquewhite
+}
+h3{
+    display: flex;
+    justify-content: center;
+    color:rgb(112, 144, 170);
+}
+div{
+    display: flex;
+    justify-content:space-evenly;
+    border-width: 20px;
+    border-color: whitesmoke;
+}
+ol{
+    justify-content: space-between;
+    color:rgb(247, 203, 139);
+}
+a:link{
+    color:aqua;
+    font-weight: 700;
+}
+a:visited{
+    color:aquamarine;
+    font-weight: 720;
+}
+a:hover{
+    text-decoration:overline;
+}
+footer{
+    color:greenyellow;
+}
+hr{
+    width:90%;
+    color:rgb(255, 140, 0);
+    size:20px;
+}
